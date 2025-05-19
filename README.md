@@ -7,7 +7,7 @@ Frontend developer
 Completed a course on hexlet.io and now looking for a job as a frontend developer. I continue to learn React and want to further develop in web development
 
 * 🌍  I'm based in Astrakhan, Russia
-* ✉️  You can contact me at [korostel97@tutamail.com](mailto:korostel97@yahoo.com)
+* ✉️  You can contact me at [korostel97@yahoo.com](mailto:korostel97@yahoo.com)
 * 🧠  I'm learning React
 
 ### Skills
